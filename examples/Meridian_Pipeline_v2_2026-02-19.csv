@@ -1,0 +1,51 @@
+Name,Business Unit,Status,Monthly Revenue,Onboarding date,Target live date
+Warehouse Automation – Phase 1,Spain,Live,5000,2025-10-27,2025-11-14
+Fleet Route Optimization,United Kingdom,Live,9000,2025-09-06,2025-12-23
+Demand Forecasting Engine,Spain,Live,5000,2025-05-13,2025-11-14
+Supplier Portal Rollout,Germany,Live,5000,2025-06-04,2025-12-04
+Inventory Sync – EU Region,EMEA,Live,3000,2025-10-10,2025-12-18
+Predictive Maintenance Hub,North America,Live,3000,2025-06-12,2025-12-19
+Returns Processing Overhaul,Spain,Live,18000,2025-09-07,2025-12-03
+Last-Mile Delivery Tracker,Germany,Live,12000,2025-04-09,2025-11-06
+Cold Chain Monitoring,EMEA,Live,6000,2025-05-08,2025-12-04
+Cross-Dock Scheduling Tool,United Kingdom,Live,12000,2025-09-24,2025-12-18
+Customs Compliance Gateway,Belgium,Onboarding,15000,2026-01-07,2026-02-11
+Order Fulfillment Dashboard,France,Onboarding,5000,2026-01-23,2026-04-17
+Freight Rate Calculator,United Kingdom,Onboarding,12000,2026-02-21,2026-03-25
+Container Yard Planner,Spain,Onboarding,30000,2026-02-04,2026-03-13
+Real-Time Shipment Visibility,France,Confirming,5000,2026-04-11,2026-07-17
+Quality Inspection App,Belgium,Confirming,15000,2026-04-14,2026-07-07
+Vendor Scorecard System,Spain,Confirming,5000,2026-02-05,2026-06-29
+Carbon Footprint Tracker,North America,Confirming,12000,2026-02-10,2026-05-10
+Multi-Carrier Booking Engine,Belgium,Confirming,5000,2026-03-20,2026-06-23
+Digital Proof of Delivery,France,Evaluating,15000,2026-03-22,2026-09-22
+Yard Management – Expansion,United Kingdom,Evaluating,9000,2026-05-26,2026-10-31
+Picking & Packing Optimizer,Spain,Evaluating,5000,2026-05-18,2026-09-28
+Load Planning Algorithm,Germany,Evaluating,9000,2026-03-22,2026-10-16
+Reverse Logistics Portal,France,Evaluating,12000,2026-06-28,2027-02-15
+Asset Tracking – IoT Rollout,North America,Evaluating,15000,2026-06-17,2026-09-29
+Safety Incident Reporter,North America,Evaluating,3000,2026-06-13,2026-11-30
+Driver Compliance Module,France,Evaluating,12000,2026-03-10,2026-08-01
+Dynamic Slotting Engine,Germany,Evaluating,15000,2026-03-29,2026-11-01
+Packaging Waste Reducer,France,Evaluating,30000,2026-03-20,2026-08-24
+Warehouse Energy Monitor,North America,Scoping,9000,2026-08-22,2027-05-06
+Customer ETA Predictor,United Kingdom,Scoping,18000,2026-08-28,2027-04-07
+Inbound Scheduling Portal,United Kingdom,Scoping,9000,2026-05-06,2027-01-11
+Automated Reorder System,France,Scoping,5000,2026-04-13,2027-03-19
+Dock Door Assignment,EMEA,Scoping,6000,2026-09-08,2027-02-15
+Pallet Tracking RFID,Belgium,Scoping,18000,2026-08-31,2027-01-14
+Temperature Alert System,France,Scoping,18000,2026-08-31,2027-04-27
+Route Deviation Analyzer,Germany,Scoping,12000,2026-08-20,2027-07-26
+Labor Scheduling Tool,EMEA,Scoping,5000,2026-09-22,2027-09-03
+Cycle Count Automation,Germany,Scoping,12000,2026-09-12,2027-04-07
+Outbound Staging Planner,EMEA,Scoping,12000,2026-07-21,2026-12-28
+Freight Audit Module,France,Scoping,3000,2026-06-07,2027-02-10
+Claims Management Portal,Belgium,Validating,6000,2026-09-07,2027-01-02
+Capacity Planning Dashboard,Belgium,Validating,12000,2026-10-11,2027-05-18
+Hazmat Compliance Tracker,Germany,Validating,9000,2026-06-09,2026-12-11
+Cross-Border Documentation,Belgium,Validating,6000,2026-09-16,2027-07-02
+Last-Mile Cost Analyzer,Germany,Validating,3000,2026-10-01,2027-03-22
+Parcel Sortation Upgrade,France,Validating,3000,2026-05-29,2026-11-27
+Warehouse Slotting Review,Belgium,Validating,12000,2026-07-01,2026-10-13
+Fleet Telematics Dashboard,North America,Validating,5000,2026-05-22,2027-02-23
+Sustainability Report Builder,France,Validating,5000,2026-09-14,2027-06-27
